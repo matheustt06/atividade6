@@ -1,0 +1,18 @@
+#centralizado {
+    color: white;
+    background-color: red;
+    text-align: center;
+    width: 200px;
+}
+#esquerda {
+    color: white;
+    background-color: blue;
+    width: 300px;
+    text-align: left;
+}
+#direita {
+    color: white;
+    background-color: green;
+    width: 300px;
+    text-align: right;
+}
